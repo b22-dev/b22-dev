@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+💫 About Me:
+🔭 I’m currently working on an app for students.
+🤝 I’m looking for help with Web dev.
+🌱 I’m currently learning Web dev.
+💬 Ask me about Swift, Firebase, and UI-UX Design.
+
+🌐 Socials:
+Discord Instagram
+
+💻 Tech Stack:
+JavaScript Python Swift Heroku Firebase NodeJS Express.js Adobe After Effects Adobe Lightroom Adobe Photoshop Adobe Premiere Pro Adobe XD Figma Framer Canva Blender
+
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
+
+
+💰 You can help me by Donating
+BuyMeACoffee
