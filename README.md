@@ -27,16 +27,3 @@ Discord Instagram
 
 💻 Tech Stack:
 JavaScript Python Swift Heroku Firebase NodeJS Express.js Adobe After Effects Adobe Lightroom Adobe Photoshop Adobe Premiere Pro Adobe XD Figma Framer Canva Blender
-
-📊 GitHub Stats:
-
-
-
-
-
-
-✍️ Random Dev Quote
-
-
-💰 You can help me by Donating
-BuyMeACoffee
